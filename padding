@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        h1{
+            background-color: black;
+            color: white;
+            width: 150px;
+            text-align: center;
+            padding: 20px 25px 30px 40px;
+            /*padding: 50px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+            padding-bottom: 20px;
+            padding: 50px 25px;(Top,bottom) (left,right)
+            padding: 50px 25px 50px;(Top) (left,right) (bottom)*/
+        }
+    </style>
+</head>
+<body>
+    <h1>Padding</h1>
+</body>
+</html>
+<!--space between content and the border-->
